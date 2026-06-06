@@ -13,12 +13,12 @@ raw_data/
 
 grid_data/
 
-* fishnet_30x30.csv
+* fishnet_30x30_processed_feature_engineered.csv
 * Grid-based aggregated dataset
 
 base_station/
 
-* base_station_information.csv
+* base_station_data_processed.csv
 * Anonymized base-station information
 
 environmental_data/
