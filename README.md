@@ -44,3 +44,5 @@ WGS 84 / UTM Zone 48N (EPSG:32648)
 Corresponding author:
 Prof. Tingting Xu
 Email: [xutt@cqupt.edu.cn](mailto:xutt@cqupt.edu.cn)
+
+An example Python script (example_loading_script.py) is provided to demonstrate how the released datasets can be loaded and accessed using the pandas library.
